@@ -1,0 +1,1768 @@
+[
+  {
+    "id": "hrteam-tokyo-2025-11-24-pm",
+    "name": "ジョブハント 小規模就活イベント",
+    "date": "2025-11-24",
+    "place": "東京",
+    "time": "14:00～17:30",
+    "type": "選考直結系",
+    "industries": [
+      "広くいろいろ"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "採用決定権のある社長・人事責任者とグループワークや座談会を通じて直接PRでき、その場で特別選考オファーも狙える選考直結イベントです。",
+    "companyCount": 5,
+    "capacity": 20,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "hrteam-tokyo-2025-11-25-am",
+    "name": "ジョブハント 小規模就活イベント（集団面接）",
+    "date": "2025-11-25",
+    "place": "東京",
+    "time": "9:30～13:00",
+    "type": "選考直結系",
+    "industries": [
+      "広くいろいろ"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "集団面談",
+      "座談会"
+    ],
+    "description": "採用決定権のある社長・人事責任者の前で集団面接とグループワークを体験し、その場で特別選考ルートにつながる評価を得られる選考直結イベントです。",
+    "companyCount": 5,
+    "capacity": 20,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "hrteam-tokyo-2025-11-25-pm",
+    "name": "ジョブハント 小規模就活イベント",
+    "date": "2025-11-25",
+    "place": "東京",
+    "time": "14:00～17:30",
+    "type": "選考直結系",
+    "industries": [
+      "広くいろいろ"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "採用決定権のある社長・人事責任者と近い距離で対話しながら、自分の強みを試せる少人数制の選考直結イベントです。",
+    "companyCount": 5,
+    "capacity": 20,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "hrteam-tokyo-2025-11-27-pm",
+    "name": "ジョブハント 小規模就活イベント",
+    "date": "2025-11-27",
+    "place": "東京",
+    "time": "14:00～17:30",
+    "type": "選考直結系",
+    "industries": [
+      "広くいろいろ"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "グループワークや座談会を通じて複数企業の社長・人事責任者に直接PRでき、その場で特別選考オファーも期待できる少人数制イベントです。",
+    "companyCount": 5,
+    "capacity": 20,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "hrteam-tokyo-2025-11-15-mid",
+    "name": "ジョブハント 中規模就活イベント",
+    "date": "2025-11-15",
+    "place": "東京",
+    "time": "12:00～19:30",
+    "type": "選考直結系",
+    "industries": [
+      "広くいろいろ"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "複数企業の社長・人事責任者が集まり、1日を通してグループワークや座談会を行いながら、その場で特別選考オファーや内定につながるチャンスもある中規模イベントです。",
+    "companyCount": 10,
+    "capacity": 80,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "hrteam-osaka-2025-11-29-mid",
+    "name": "ジョブハント 中規模就活イベント",
+    "date": "2025-11-29",
+    "place": "大阪",
+    "time": "12:00〜19:30",
+    "type": "選考直結系",
+    "industries": [
+      "広くいろいろ"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "関西エリアの複数企業の社長・人事責任者とグループワークや座談会を通じて直接つながり、その場で特別選考オファーも受けられる中規模イベントです。",
+    "companyCount": 10,
+    "capacity": 80,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "winc-online-2025-12-09-realestate",
+    "name": "WinC オンライン 経営者マッチング（不動産業界版）",
+    "date": "2025-12-09",
+    "place": "オンライン",
+    "time": "16:00〜19:25",
+    "type": "業界理解系",
+    "industries": [
+      "不動産"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "トークセッション",
+      "自己PR",
+      "グループワーク?",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-online-2026-03-12-general",
+    "name": "WinC オンライン 経営者マッチング（一般）",
+    "date": "2026-03-12",
+    "place": "オンライン",
+    "time": "15:00〜18:25",
+    "type": "業界理解系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "トークセッション",
+      "自己PR",
+      "グループワーク?",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 4,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-online-2026-04-07-general",
+    "name": "WinC オンライン 経営者マッチング（一般）",
+    "date": "2026-04-07",
+    "place": "オンライン",
+    "time": "16:00〜19:25",
+    "type": "業界理解系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "トークセッション",
+      "自己PR",
+      "グループワーク?",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 4,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2025-12-12-tourism-food",
+    "name": "WinC 経営者マッチング（一般／観光・飲食等）",
+    "date": "2025-12-12",
+    "place": "東京",
+    "time": "16:00〜20:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "観光・飲食等"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2025-12-23-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2025-12-23",
+    "place": "東京",
+    "time": "16:00〜19:25",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-01-15-itweb",
+    "name": "WinC 経営者マッチング（業界版：IT・WEB）",
+    "date": "2026-01-15",
+    "place": "東京",
+    "time": "16:00〜19:25",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "IT・WEB"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-01-29-realestate",
+    "name": "WinC 経営者マッチング（業界版：不動産）",
+    "date": "2026-01-29",
+    "place": "東京",
+    "time": "16:00〜20:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "不動産"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-02-03-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2026-02-03",
+    "place": "東京",
+    "time": "15:00〜19:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-02-12-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2026-02-12",
+    "place": "東京",
+    "time": "15:00〜19:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-02-17-sales-consult",
+    "name": "WinC 経営者マッチング（職種版：営業＆コンサル職）",
+    "date": "2026-02-17",
+    "place": "東京",
+    "time": "15:00〜19:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "営業",
+      "コンサル"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-02-24-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2026-02-24",
+    "place": "東京",
+    "time": "15:00〜19:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-02-28-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2026-02-28",
+    "place": "東京",
+    "time": "15:00〜19:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-03-06-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2026-03-06",
+    "place": "東京",
+    "time": "15:00〜19:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-03-19-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2026-03-19",
+    "place": "東京",
+    "time": "15:00〜19:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-03-27-sales-consult",
+    "name": "WinC 経営者マッチング（職種版：営業＆コンサル職）",
+    "date": "2026-03-27",
+    "place": "東京",
+    "time": "15:00〜19:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "営業",
+      "コンサル"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-04-09-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2026-04-09",
+    "place": "東京",
+    "time": "16:00〜20:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-04-15-realestate",
+    "name": "WinC 経営者マッチング（業界版：不動産）",
+    "date": "2026-04-15",
+    "place": "東京",
+    "time": "16:00〜20:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "不動産"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-04-21-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2026-04-21",
+    "place": "東京",
+    "time": "16:00〜20:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-tokyo-2026-04-23-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2026-04-23",
+    "place": "東京",
+    "time": "16:00〜20:20",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "首都圏勤務全般"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "winc-nagoya-2025-12-19-general",
+    "name": "WinC 経営者マッチング（一般）",
+    "date": "2025-12-19",
+    "place": "名古屋",
+    "time": "15:30〜19:50",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "商社",
+      "コンサル",
+      "物流",
+      "不動産",
+      "その他幅広い業界"
+    ],
+    "experiences": [
+      "企業紹介プレゼン",
+      "パネルトーク",
+      "トークセッション",
+      "自己PR",
+      "社長・経営者との対話"
+    ],
+    "description": "登壇者である社長・経営者とのトークセッションを通じて自己PRができ、マッチングした学生は特別選考ルートや経営者との食事会につながる選考直結イベントです。",
+    "companyCount": 6,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/winc.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=ALVqio"
+  },
+  {
+    "id": "shachomeshi-tokyo-2025-11-27-mega",
+    "name": "就活メシMEGA",
+    "date": "2025-11-27",
+    "place": "東京",
+    "time": "12:00〜17:00",
+    "type": "業界理解系、社長や人事と話せる系",
+    "industries": [
+      "広くいろいろ"
+    ],
+    "experiences": [
+      "社長との食事",
+      "少人数座談会",
+      "自己PR",
+      "面談"
+    ],
+    "description": "社長が食事代を負担し、食事をしながら社長に直接自己PRできる選考直結イベントです。評価次第で特別選考ルートや内定につながるチャンスがあります。",
+    "companyCount": 15,
+    "capacity": 150,
+    "benefits": "",
+    "imageUrl": "/images/events/shachomeshi.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=5Ls9QX"
+  },
+  {
+    "id": "dym-tokyo-2025-11-26-14-00",
+    "name": "Meets Company",
+    "date": "2025-11-26",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2025-11-29-14-00-eng",
+    "name": "Meets Company（顧問登壇・エンジニア職）",
+    "date": "2025-11-29",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "IT・WEB",
+      "エンジニア職"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "顧問登壇トーク",
+      "社長・人事との対話"
+    ],
+    "description": "顧問登壇つきでエンジニア職の仕事やキャリアを深掘りしながら、座談会形式で複数企業と出会えるエンジニア志望向けイベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2025-11-30-16-00",
+    "name": "Meets Company",
+    "date": "2025-11-30",
+    "place": "東京",
+    "time": "16:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2025-12-03-14-00-immediate",
+    "name": "Meets Company（即日選考あり）",
+    "date": "2025-12-03",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話",
+      "即日選考案内"
+    ],
+    "description": "座談会形式で複数企業と話したうえで、その日のうちに選考案内や特別ルートにつながるチャンスがある選考直結型イベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2025-12-05-16-00",
+    "name": "Meets Company",
+    "date": "2025-12-05",
+    "place": "東京",
+    "time": "16:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2025-12-06-14-00-mock",
+    "name": "Meets Company（模擬面接つき）",
+    "date": "2025-12-06",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "模擬面接",
+      "社長・人事との対話"
+    ],
+    "description": "模擬面接つきで、面接のフィードバックを受けながら複数企業と出会える、選考対策と企業研究を同時に進められるイベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2025-12-13-14-00-adv-mkt",
+    "name": "Meets Company（顧問登壇・広告/企画/マーケ職）",
+    "date": "2025-12-13",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "広告・企画・マーケ"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "顧問登壇トーク",
+      "社長・人事との対話"
+    ],
+    "description": "顧問登壇つきで広告・企画・マーケ職のリアルな働き方を学びながら、少人数座談会で企業とじっくり話せるイベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2025-12-14-14-00-high",
+    "name": "Meets Company（国公立・早慶・MARCH向け）",
+    "date": "2025-12-14",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "学歴レンジをそろえた学生同士で座談会に参加し、キャリア志向の近い企業と出会えるイベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2025-12-16-16-00",
+    "name": "Meets Company",
+    "date": "2025-12-16",
+    "place": "東京",
+    "time": "16:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2025-12-20-14-00-adv-sales",
+    "name": "Meets Company（顧問登壇・営業職）",
+    "date": "2025-12-20",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "営業"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "顧問登壇トーク",
+      "社長・人事との対話"
+    ],
+    "description": "顧問登壇つきで営業職のリアルな働き方ややりがいを学びつつ、複数企業と座談会で話せる営業志望向けイベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2025-12-22-14-00",
+    "name": "Meets Company",
+    "date": "2025-12-22",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2026-01-10-14-00",
+    "name": "Meets Company",
+    "date": "2026-01-10",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2026-01-20-14-00-immediate",
+    "name": "Meets Company（即日選考あり）",
+    "date": "2026-01-20",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話",
+      "即日選考案内"
+    ],
+    "description": "座談会の評価次第で、その日のうちに選考案内や特別ルートを受けられる選考直結型イベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2026-01-21-14-00-immediate",
+    "name": "Meets Company（即日選考あり）",
+    "date": "2026-01-21",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "同上"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2026-01-23-14-00-immediate",
+    "name": "Meets Company（即日選考あり）",
+    "date": "2026-01-23",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "同上"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2026-01-24-14-00-athlete",
+    "name": "Meets Company（体育会向け）",
+    "date": "2026-01-24",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "体育会学生をターゲットに、ガッツや行動力を評価する企業と出会えるイベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2026-01-27-14-00",
+    "name": "Meets Company",
+    "date": "2026-01-27",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2026-01-29-16-00",
+    "name": "Meets Company",
+    "date": "2026-01-29",
+    "place": "東京",
+    "time": "16:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "同上"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2026-01-30-14-00-adv",
+    "name": "Meets Company（顧問登壇回）",
+    "date": "2026-01-30",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "顧問登壇トーク",
+      "社長・人事との対話"
+    ],
+    "description": "顧問登壇つきでキャリア全般について深掘りしながら複数企業と話せる特別回です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-tokyo-2026-01-31-14-00",
+    "name": "Meets Company",
+    "date": "2026-01-31",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "同上",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-osaka-2025-11-26-14-00",
+    "name": "Meets Company",
+    "date": "2025-11-26",
+    "place": "大阪",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-osaka-2025-12-01-14-00",
+    "name": "Meets Company",
+    "date": "2025-12-01",
+    "place": "大阪",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-osaka-2025-12-12-14-00",
+    "name": "Meets Company",
+    "date": "2025-12-12",
+    "place": "大阪",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-osaka-2026-01-09-14-00-immediate",
+    "name": "Meets Company（即日選考あり）",
+    "date": "2026-01-09",
+    "place": "大阪",
+    "time": "14:00〜",
+    "type": "業界理解系、選考直結系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話",
+      "即日選考案内"
+    ],
+    "description": "関西エリアの企業から、その日のうちに選考案内を受けられる選考直結型イベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-osaka-2026-01-15-14-00-immediate",
+    "name": "Meets Company（即日選考あり）",
+    "date": "2026-01-15",
+    "place": "大阪",
+    "time": "14:00〜",
+    "type": "業界理解系、選考直結系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話",
+      "即日選考案内"
+    ],
+    "description": "関西エリアの企業から、その日のうちに選考案内を受けられる選考直結型イベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-osaka-2026-01-21-14-00-immediate",
+    "name": "Meets Company（即日選考あり）",
+    "date": "2026-01-21",
+    "place": "大阪",
+    "time": "14:00〜",
+    "type": "業界理解系、選考直結系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話",
+      "即日選考案内"
+    ],
+    "description": "関西エリアの企業から、その日のうちに選考案内を受けられる選考直結型イベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-osaka-2026-01-27-14-00-immediate",
+    "name": "Meets Company（即日選考あり）",
+    "date": "2026-01-27",
+    "place": "大阪",
+    "time": "14:00〜",
+    "type": "業界理解系、選考直結系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話",
+      "即日選考案内"
+    ],
+    "description": "関西エリアの企業から、その日のうちに選考案内を受けられる選考直結型イベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2025-12-06-14-00-large",
+    "name": "Meets Company（全国大型オンライン）",
+    "date": "2025-12-06",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国規模で多くの企業と学生が集まる大型オンライン合同説明会です。",
+    "companyCount": 8,
+    "capacity": 80,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2025-12-10-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2025-12-10",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2025-12-11-14-00-science",
+    "name": "Meets Company（全国理系オンライン）",
+    "date": "2025-12-11",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "理系全般"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "理系学生を対象に、理系職種や理系歓迎企業とオンラインでつながれるイベントです。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2025-12-13-14-00-science",
+    "name": "Meets Company（全国理系オンライン）",
+    "date": "2025-12-13",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "理系全般"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "理系学生を対象に、理系職種や理系歓迎企業とオンラインでつながれるイベントです。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2025-12-17-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2025-12-17",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2025-12-22-14-00-large",
+    "name": "Meets Company（全国大型オンライン）",
+    "date": "2025-12-22",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国規模で多くの企業と学生が集まる大型オンライン合同説明会です。",
+    "companyCount": 8,
+    "capacity": 80,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2025-12-23-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2025-12-23",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-08-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2026-01-08",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-09-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2026-01-09",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-13-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2026-01-13",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-14-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2026-01-14",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-20-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2026-01-20",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-21-14-00-science",
+    "name": "Meets Company（理系オンライン）",
+    "date": "2026-01-21",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "理系全般"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "理系学生向けに、理系歓迎企業とオンラインでつながれるイベントです。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-22-14-00-science",
+    "name": "Meets Company（理系オンライン）",
+    "date": "2026-01-22",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "理系全般"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "理系学生向けに、理系歓迎企業とオンラインでつながれるイベントです。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-24-14-00-large",
+    "name": "Meets Company（全国大型オンライン）",
+    "date": "2026-01-24",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国規模で多くの企業と学生が集まる大型オンライン合同説明会です。",
+    "companyCount": 8,
+    "capacity": 80,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-27-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2026-01-27",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-28-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2026-01-28",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-29-14-00",
+    "name": "Meets Company（全国オンライン）",
+    "date": "2026-01-29",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国の学生を対象に、オンラインで複数企業と座談会ができる大型合同説明会です。",
+    "companyCount": 8,
+    "capacity": 50,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-online-2026-01-31-14-00-large",
+    "name": "Meets Company（全国大型オンライン）",
+    "date": "2026-01-31",
+    "place": "オンライン",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "オンライン座談会",
+      "社長・人事との対話"
+    ],
+    "description": "全国規模で多くの企業と学生が集まる大型オンライン合同説明会です。",
+    "companyCount": 8,
+    "capacity": 80,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-fukuoka-2025-12-17-14-00",
+    "name": "Meets Company",
+    "date": "2025-12-17",
+    "place": "福岡",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-fukuoka-2026-01-14-14-00-immediate",
+    "name": "Meets Company（即日選考あり）",
+    "date": "2026-01-14",
+    "place": "福岡",
+    "time": "14:00〜",
+    "type": "業界理解系、選考直結系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話",
+      "即日選考案内"
+    ],
+    "description": "福岡エリアの企業から、その日のうちに選考案内を受けられる選考直結型イベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-nagoya-2025-11-14-14-00",
+    "name": "Meets Company",
+    "date": "2025-11-14",
+    "place": "名古屋",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-nagoya-2025-12-10-14-00",
+    "name": "Meets Company",
+    "date": "2025-12-10",
+    "place": "名古屋",
+    "time": "14:00〜",
+    "type": "業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話"
+    ],
+    "description": "業界を絞らない少人数の座談会形式で、社長や人事からリアルな企業の雰囲気や仕事の話を聞きつつ、その場でマッチした企業から選考案内を受けられる合同説明会です。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "dym-nagoya-2026-01-23-14-00-immediate",
+    "name": "Meets Company（即日選考あり）",
+    "date": "2026-01-23",
+    "place": "名古屋",
+    "time": "14:00〜",
+    "type": "業界理解系、選考直結系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "企業プレゼン",
+      "少人数座談会",
+      "社長・人事との対話",
+      "即日選考案内"
+    ],
+    "description": "東海エリアの企業から、その日のうちに選考案内を受けられる選考直結型イベントです。",
+    "companyCount": 8,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/dym-meets-company.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  }
+]
