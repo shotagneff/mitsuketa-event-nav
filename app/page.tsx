@@ -413,7 +413,7 @@ export default function Home() {
                       </div>
                     </div>
                     <div className="text-[11px] font-medium text-emerald-700">{event.type}</div>
-                    <h4 className="text-sm font-semibold text-zinc-900 line-clamp-2">{event.name}</h4>
+                    <h4 className="text-lg font-semibold text-zinc-900 line-clamp-2 sm:text-xl">{event.name}</h4>
                     {typeof event.matchScore === "number" && (
                       <div className="mt-2 space-y-1">
                         <div className="flex items-center justify-between text-[11px] text-zinc-500">
