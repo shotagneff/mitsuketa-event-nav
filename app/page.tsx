@@ -238,7 +238,7 @@ export default function Home() {
                 key={p}
                 type="button"
                 onClick={() => setPlace(p)}
-                className={`rounded-full border px-4 py-2 text-sm transition-colors ${
+                className={`rounded-full border px-4 py-2.5 text-sm transition-colors ${
                   place === p
                     ? "border-black bg-black text-white"
                     : "border-zinc-300 bg-white text-zinc-800 hover:border-black/60"
@@ -291,7 +291,7 @@ export default function Home() {
                 key={i}
                 type="button"
                 onClick={() => setIndustry(i)}
-                className={`rounded-full border px-4 py-2 text-sm transition-all ${
+                className={`rounded-full border px-4 py-2.5 text-sm transition-all ${
                   industry === i
                     ? "border-[#cc3d40] bg-[#cc3d40] text-white"
                     : i === "まだ決まっていない"
@@ -376,7 +376,7 @@ export default function Home() {
                   className="group flex flex-col overflow-hidden rounded-2xl border border-zinc-200 bg-white/90 shadow-sm transition hover:-translate-y-1 hover:shadow-lg"
                 >
                   {event.imageUrl && (
-                    <div className="relative h-32 w-full overflow-hidden bg-zinc-100">
+                    <div className="relative h-40 w-full overflow-hidden bg-zinc-100">
                       <Image
                         src={event.imageUrl}
                         alt={event.name}
@@ -481,7 +481,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-[url('/images/coverimage.png')] bg-cover bg-center bg-fixed">
       <div className="min-h-screen bg-white/90 px-4 py-8 font-sans">
-        <main className="mx-auto w-full max-w-3xl rounded-3xl bg-white px-5 py-6 shadow-[0_18px_45px_rgba(0,0,0,0.06)] sm:px-8 sm:py-8">
+        <main className="mx-auto w-full max-w-3xl rounded-3xl bg-white px-5 py-7 shadow-[0_18px_45px_rgba(0,0,0,0.06)] sm:px-8 sm:py-8">
           {/* ヘッダー */}
           <header className="mb-8 flex flex-col gap-5 sm:flex-row sm:items-center sm:justify-between">
             <div className="flex items-center gap-3">
@@ -574,7 +574,7 @@ export default function Home() {
                   type="button"
                   onClick={handleNext}
                   disabled={!canGoNext()}
-                  className="rounded-full bg-[#cc3d40] px-5 py-2 text-sm font-medium text-white shadow-sm transition hover:bg-[#b43537] disabled:opacity-40"
+                  className="rounded-full bg-[#cc3d40] px-6 py-2.5 text-sm font-medium text-white shadow-sm transition hover:bg-[#b43537] disabled:opacity-40"
                 >
                   {step < 4 ? "次へ進む" : "イベントを提案してもらう"}
                 </button>
