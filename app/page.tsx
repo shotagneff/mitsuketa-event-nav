@@ -90,6 +90,7 @@ type EventCard = {
   imageUrl?: string;
   matchScore?: number;
   reasons?: string[];
+  reserveUrl?: string;
 };
 
 export default function Home() {
@@ -454,13 +455,24 @@ export default function Home() {
                       </div>
                     )}
                     <div className="mt-3 flex justify-end">
-                      <button
-                        type="button"
-                        onClick={scrollToLineCta}
-                        className="inline-flex items-center gap-2 rounded-full bg-[#cc3d40] px-4 py-1.5 text-[12px] font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-[#b43537]"
-                      >
-                        このイベントを予約してみる
-                      </button>
+                      {event.reserveUrl ? (
+                        <a
+                          href={event.reserveUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="inline-flex items-center gap-2 rounded-full bg-[#cc3d40] px-4 py-1.5 text-[12px] font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-[#b43537]"
+                        >
+                          このイベントを予約してみる
+                        </a>
+                      ) : (
+                        <button
+                          type="button"
+                          onClick={scrollToLineCta}
+                          className="inline-flex items-center gap-2 rounded-full bg-[#cc3d40] px-4 py-1.5 text-[12px] font-semibold text-white shadow-md transition hover:-translate-y-0.5 hover:bg-[#b43537]"
+                        >
+                          このイベントを予約してみる
+                        </button>
+                      )}
                     </div>
                   </div>
                 </div>
