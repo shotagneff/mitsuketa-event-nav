@@ -2211,7 +2211,7 @@
     "name": "DEiBA",
     "date": "2025-12-06",
     "place": "東京",
-    "time": "11:20〜",
+    "time": "",
     "type": "選考直結系、自己分析系",
     "industries": [
       "業界を絞らない"
@@ -2225,14 +2225,14 @@
     "capacity": null,
     "benefits": "",
     "imageUrl": "/images/events/deiba.png",
-    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=T0P8lV"
   },
   {
     "id": "deiba-tokyo-2025-12-13-11-20",
     "name": "DEiBA",
     "date": "2025-12-13",
     "place": "東京",
-    "time": "11:20〜",
+    "time": "",
     "type": "選考直結系、自己分析系",
     "industries": [
       "業界を絞らない"
@@ -2246,14 +2246,14 @@
     "capacity": null,
     "benefits": "",
     "imageUrl": "/images/events/deiba.png",
-    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=T0P8lV"
   },
   {
     "id": "deiba-tokyo-2025-12-20-11-20",
     "name": "DEiBA",
     "date": "2025-12-20",
     "place": "東京",
-    "time": "11:20〜",
+    "time": "",
     "type": "選考直結系、自己分析系",
     "industries": [
       "業界を絞らない"
@@ -2267,14 +2267,14 @@
     "capacity": null,
     "benefits": "",
     "imageUrl": "/images/events/deiba.png",
-    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=T0P8lV"
   },
   {
     "id": "deiba-osaka-2025-12-07-11-20",
     "name": "DEiBA",
     "date": "2025-12-07",
     "place": "大阪",
-    "time": "11:20〜",
+    "time": "",
     "type": "選考直結系、自己分析系",
     "industries": [
       "業界を絞らない"
@@ -2288,14 +2288,14 @@
     "capacity": null,
     "benefits": "",
     "imageUrl": "/images/events/deiba.png",
-    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=T0P8lV"
   },
   {
     "id": "deiba-nagoya-2025-12-14-11-20",
     "name": "DEiBA",
     "date": "2025-12-14",
     "place": "名古屋",
-    "time": "11:20〜",
+    "time": "",
     "type": "選考直結系、自己分析系",
     "industries": [
       "業界を絞らない"
@@ -2309,14 +2309,14 @@
     "capacity": null,
     "benefits": "",
     "imageUrl": "/images/events/deiba.png",
-    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=T0P8lV"
   },
   {
     "id": "deiba-fukuoka-2026-01-11-11-20",
     "name": "DEiBA",
     "date": "2026-01-11",
     "place": "福岡",
-    "time": "11:20〜",
+    "time": "",
     "type": "選考直結系、自己分析系",
     "industries": [
       "業界を絞らない"
@@ -2330,6 +2330,6 @@
     "capacity": null,
     "benefits": "",
     "imageUrl": "/images/events/deiba.png",
-    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=T0P8lV"
   }
 ]
