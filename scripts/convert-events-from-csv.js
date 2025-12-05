@@ -86,6 +86,9 @@ function decideImageUrl(companyName = "", programName = "") {
   if (text.includes("社長メシ") || text.includes("就活メシ")) {
     return `${base}/shachomeshi.png`;
   }
+  if (text.includes("DEiBA")) {
+    return `${base}/deiba.png`;
+  }
 
   // デフォルト: プレースホルダー
   return `${base}/default.png`;
