@@ -1764,5 +1764,572 @@
     "benefits": "",
     "imageUrl": "/images/events/dym-meets-company.png",
     "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=GTT73r"
+  },
+  {
+    "id": "tokyo-2025-12-09-09-30-group",
+    "name": "ジョブハント（集団面接）",
+    "date": "2025-12-09",
+    "place": "東京",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-09-14-00",
+    "name": "ジョブハント",
+    "date": "2025-12-09",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-11-09-30",
+    "name": "ジョブハント",
+    "date": "2025-12-11",
+    "place": "東京",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-11-14-00",
+    "name": "ジョブハント",
+    "date": "2025-12-11",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-13-09-30",
+    "name": "ジョブハント",
+    "date": "2025-12-13",
+    "place": "東京",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-13-14-00-rikei",
+    "name": "ジョブハント（理系限定）",
+    "date": "2025-12-13",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "理系限定"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-15-14-00",
+    "name": "ジョブハント",
+    "date": "2025-12-15",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-16-09-30",
+    "name": "ジョブハント",
+    "date": "2025-12-16",
+    "place": "東京",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-16-14-00-group",
+    "name": "ジョブハント",
+    "date": "2025-12-16",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-18-09-30",
+    "name": "ジョブハント",
+    "date": "2025-12-18",
+    "place": "東京",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-18-14-00",
+    "name": "ジョブハント",
+    "date": "2025-12-18",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-20-09-30",
+    "name": "ジョブハント",
+    "date": "2025-12-20",
+    "place": "東京",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "tokyo-2025-12-20-14-00-group",
+    "name": "ジョブハント",
+    "date": "2025-12-20",
+    "place": "東京",
+    "time": "14:00〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "osaka-2025-12-13-09-30",
+    "name": "ジョブハント",
+    "date": "2025-12-13",
+    "place": "大阪",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "osaka-2025-12-13-14-00",
+    "name": "ジョブハント",
+    "date": "2025-12-13",
+    "place": "大阪",
+    "time": "14:00〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "osaka-2025-12-14-09-30",
+    "name": "ジョブハント",
+    "date": "2025-12-14",
+    "place": "大阪",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "nagoya-2025-12-06-09-30",
+    "name": "ジョブハント",
+    "date": "2025-12-06",
+    "place": "名古屋",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "nagoya-2025-12-06-14-00",
+    "name": "ジョブハント",
+    "date": "2025-12-06",
+    "place": "名古屋",
+    "time": "14:00〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "nagoya-2025-12-07-09-30",
+    "name": "ジョブハント",
+    "date": "2025-12-07",
+    "place": "名古屋",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "aichi-2025-12-07-14-00",
+    "name": "ジョブハント",
+    "date": "2025-12-07",
+    "place": "名古屋",
+    "time": "14:00〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "online-2025-12-17-09-30-kansai",
+    "name": "ジョブハント",
+    "date": "2025-12-17",
+    "place": "オンライン",
+    "time": "9:30〜",
+    "type": "選考直結系、業界理解系、自己分析系",
+    "industries": [
+      "理系限定"
+    ],
+    "experiences": [
+      "プレゼン",
+      "座談会"
+    ],
+    "description": "初めての内定を目指す就活イベント",
+    "companyCount": null,
+    "capacity": 30,
+    "benefits": "",
+    "imageUrl": "/images/events/hrteam-jobhunt.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "deiba-tokyo-2025-12-06-11-20",
+    "name": "DEiBA",
+    "date": "2025-12-06",
+    "place": "東京",
+    "time": "11:20〜",
+    "type": "選考直結系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "グループディスカッションで高評価を獲得するとスカウトを獲得できる",
+    "companyCount": null,
+    "capacity": null,
+    "benefits": "",
+    "imageUrl": "/images/events/deiba.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "deiba-tokyo-2025-12-13-11-20",
+    "name": "DEiBA",
+    "date": "2025-12-13",
+    "place": "東京",
+    "time": "11:20〜",
+    "type": "選考直結系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "グループディスカッションで高評価を獲得するとスカウトを獲得できる",
+    "companyCount": null,
+    "capacity": null,
+    "benefits": "",
+    "imageUrl": "/images/events/deiba.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "deiba-tokyo-2025-12-20-11-20",
+    "name": "DEiBA",
+    "date": "2025-12-20",
+    "place": "東京",
+    "time": "11:20〜",
+    "type": "選考直結系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "グループディスカッションで高評価を獲得するとスカウトを獲得できる",
+    "companyCount": null,
+    "capacity": null,
+    "benefits": "",
+    "imageUrl": "/images/events/deiba.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "deiba-osaka-2025-12-07-11-20",
+    "name": "DEiBA",
+    "date": "2025-12-07",
+    "place": "大阪",
+    "time": "11:20〜",
+    "type": "選考直結系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "グループディスカッションで高評価を獲得するとスカウトを獲得できる",
+    "companyCount": null,
+    "capacity": null,
+    "benefits": "",
+    "imageUrl": "/images/events/deiba.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "deiba-nagoya-2025-12-14-11-20",
+    "name": "DEiBA",
+    "date": "2025-12-14",
+    "place": "名古屋",
+    "time": "11:20〜",
+    "type": "選考直結系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "グループディスカッションで高評価を獲得するとスカウトを獲得できる",
+    "companyCount": null,
+    "capacity": null,
+    "benefits": "",
+    "imageUrl": "/images/events/deiba.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
+  },
+  {
+    "id": "deiba-fukuoka-2026-01-11-11-20",
+    "name": "DEiBA",
+    "date": "2026-01-11",
+    "place": "福岡",
+    "time": "11:20〜",
+    "type": "選考直結系、自己分析系",
+    "industries": [
+      "業界を絞らない"
+    ],
+    "experiences": [
+      "グループディスカッション",
+      "座談会"
+    ],
+    "description": "グループディスカッションで高評価を獲得するとスカウトを獲得できる",
+    "companyCount": null,
+    "capacity": null,
+    "benefits": "",
+    "imageUrl": "/images/events/deiba.png",
+    "reserveUrl": "https://form.lmes.jp/landing-qr/2008272618-2J6GkXw4?uLand=3fbudv"
   }
 ]
